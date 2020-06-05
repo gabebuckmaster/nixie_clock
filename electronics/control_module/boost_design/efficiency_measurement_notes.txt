@@ -1,0 +1,7 @@
+With Pulse Electronics PF0560.473NLT inductor, IRFL214 switching mosfet, and 120 ohm snubber resistance:
+
+Output: 5.14 mA at 182 V to display. 0.5 mA in feedback network
+Input to boost converter: 133 mA at 12V. ~13 mA to controller.
+
+Efficiency (power conversion only): 71%
+Efficiency (with feedback/controller): 59%

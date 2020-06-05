@@ -1,0 +1,15 @@
+Tooling for Shapeoko Router
+
+1/4" x 3" carbide 2 flute end mill
+1/4" to 1/8" collet adapter/reducer
+1/8" carbide 2 flute end mill
+1.6mm PCB drill
+2.5mm PCB drill
+1/4" shaft ER16 collet extender
+1/16" ER16 collet
+1/16" 6" drill bit, cut to about 3"
+Cam clamps, e.g. ShopFox D3347
+Cavity clamp for clock body (fabricated from MDF, see design files)
+Various wood screws for affixing wasteboard and clock body after cavity milling
+6x #2 x 5/16 screws for affixing back panel after drilling/during milling
+1/4" shaft x 1-1/4" cutting diameter router bit (or other large end mill/bit for facing operations)

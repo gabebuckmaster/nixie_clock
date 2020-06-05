@@ -1,0 +1,10 @@
+Quantity,Description,Manufacturer,MPN,Source
+1,Clock body (mechanical/clock_body),,,
+1,Back panel (mechanical/back_panel),,,
+1,Control module (electronics/control_module),,,
+1,Display module (electronics/display_module),,,
+6,"#2 Sheet metal screws 5/16""",,,
+4,"#2 Sheet metal screws 1""",,,
+4,"#2 Nylon spacer 7/16""",Bivar Inc,9913-437,https://www.digikey.com/product-detail/en/bivar-inc/9913-437/492-1047-ND/586367
+4," Rubber feet clear 1/4"" dia. x 0.075"" tall",3M,SJ5382,https://www.digikey.com/product-detail/en/3m/SJ5382/SJ5382-ND/3866079
+1,12V 5W AC adapter 5.5mm barrel jack output,XP Power,VEL05US120-US-JA,https://www.digikey.com/product-detail/en/xp-power/VEL05US120-US-JA/1470-2774-ND/5023716
